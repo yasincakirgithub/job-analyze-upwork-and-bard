@@ -1,0 +1,11 @@
+Highly skilled Django developer with 5 years of experience in developing robust and scalable web applications. Proficient in Python, Django, and related technologies, with a strong understanding of software development principles. Committed to delivering high-quality code and continuously improving processes. Excellent problem-solving and communication skills.
+
+Skills:
+
+Programming Languages: Python, JavaScript, HTML, CSS
+Frameworks: Django, Django REST Framework, React
+Databases: PostgreSQL, MySQL, MongoDB
+Version Control: Git, SVN
+Deployment: Docker, AWS, Heroku
+Testing: Unit Testing, Selenium
+Other Tools: Jira, Agile methodologies, CI/CD
